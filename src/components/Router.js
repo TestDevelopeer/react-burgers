@@ -6,7 +6,7 @@ import NotFound from "./NotFound";
 
 const Router = () => {
     return (
-        <BrowserRouter>
+        <BrowserRouter basename={'/hotburgers'}>
             <Switch>
                 <Route exact path={'/'} component={Landing}/>
                 <Route path={'/restaurant/:restaurantId'} component={App}/>

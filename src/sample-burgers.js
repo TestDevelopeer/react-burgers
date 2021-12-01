@@ -2,7 +2,7 @@
 const sampleBurgers = {
   burger1: {
     name: 'Чизбургер',
-    image: '/images/cheese.jpg',
+    image: 'images/cheese.jpg',
     desc:
       'Классический бургер с бифштексом из 100% говядины с маринованными огурчиками и свежей пшеничной булочкой.',
     price: 110,
@@ -11,7 +11,7 @@ const sampleBurgers = {
 
   burger2: {
     name: 'Чикенбургер',
-    image: '/images/chicken.jpg',
+    image: 'images/chicken.jpg',
     desc:
       'Куриный бургер с добавлением расплавленного сыра, соуса Барбекю и листового салата.',
     price: 140,
@@ -20,7 +20,7 @@ const sampleBurgers = {
 
   burger3: {
     name: 'Двойной Гамбургер',
-    image: '/images/double.jpg',
+    image: 'images/double.jpg',
     desc:
       'Двойной гамбургер с бифштексом из 100% говядины и расплавленным сыром Чеддер и пряным соусом.',
     price: 200,
@@ -29,7 +29,7 @@ const sampleBurgers = {
 
   burger4: {
     name: 'Фишбургер',
-    image: '/images/fish.jpg',
+    image: 'images/fish.jpg',
     desc:
       'Рыбное филе высшего качества c листовым салатом, маринованными огурчиками и преправленное легким майонезом.',
     price: 150,
@@ -38,7 +38,7 @@ const sampleBurgers = {
 
   burger5: {
     name: 'Картофель Фри',
-    image: '/images/fries.jpg',
+    image: 'images/fries.jpg',
     desc:
       'Хрустящие ломтики золотистого горячего картофеля Супер Фри, сделанные из отборного органического корнеплода!',
     price: 85,
@@ -47,7 +47,7 @@ const sampleBurgers = {
 
   burger6: {
     name: 'King Бургер',
-    image: '/images/ham.jpg',
+    image: 'images/ham.jpg',
     desc:
       'Бургер из 100% отборной говядины, с жаренными ломтиками бекона и свежим расплавленным сыром, заправленный кетчупом и майонезом.',
     price: 450,
@@ -56,7 +56,7 @@ const sampleBurgers = {
 
   burger7: {
     name: 'Мега Бургер',
-    image: '/images/mega.jpg',
+    image: 'images/mega.jpg',
     desc:
       'Наш самый большой бургер, сделанный из свежайшего бифштекса, с добавлением расплавленного сыра Чеддер и соленых огурчиков.',
     price: 500,
@@ -65,7 +65,7 @@ const sampleBurgers = {
 
   burger8: {
     name: 'Бургер в Пите',
-    image: '/images/pita.jpg',
+    image: 'images/pita.jpg',
     desc:
       'Четыре котлеты из 100% говядины, покрытые плавленным сыром Чеддер, со свежим листовым салатом в свежей пшеничной лепешке.',
     price: 380,
@@ -74,7 +74,7 @@ const sampleBurgers = {
 
   burger9: {
     name: 'Village Фри',
-    image: '/images/bakedFries.jpg',
+    image: 'images/bakedFries.jpg',
     desc:
       'Порция свежих ломтиков картофеля, запеченых на открытом воздухе под мирно тлеющими углями',
     price: 90,

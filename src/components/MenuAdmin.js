@@ -35,7 +35,7 @@ class MenuAdmin extends React.Component {
 
     render() {
         const {user, photo} = this.state;
-        const avatar = photo ? photo : '/images/avatar.png';
+        const avatar = photo ? photo : 'images/avatar.png';
         return (
             <div className={'menu-admin'}>
                 {user ? (
